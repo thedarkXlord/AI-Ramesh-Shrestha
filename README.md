@@ -7,5 +7,9 @@ Installing jupyter notebook
 	3. python get-pip.py
 	4. pip install notebook
 	5. jupyter notebook
+	6. pip install virtualenv
+	7. loation change to AI notebook
+	8. virtualenv mypython
+	9. mypthon\Scripts\activate
 
 
