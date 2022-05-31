@@ -4,8 +4,8 @@ Machine learning (ML) is a type of artificial intelligence (AI) that allows soft
 
 **Supervised Learning**
 
-In supervised learning, the network is presented with inputs together with the target (teacher signal) outputs. Then, the neural network tries to produce an output as close as possible to the target signal by adjusting the values of internal weights. The most common supervised learning method is the “error correction method”. Error correction method is used for networks which their neurons have discrete output functions. Neural networks are trained with this method in order to reduce the error
-(difference between the network's output and the desired output) to zero.
+In supervised learning, the network is presented with inputs together with the target (teacher signal) outputs. Then, the neural network tries to produce an output as close as possible to the target signal by adjusting the values of internal weights. The most common supervised learning method is the “error correction method”. Error correction method is used for networks which their neurons have discrete output functions. Neural networks are trained with this method in order to reduce the error (difference between the network's output and the desired output) to zero.
+
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/82272276/171100763-14012b87-de27-4049-9791-b39c5a6bfcd4.png">
 
 **Concept of Machine Learning**
