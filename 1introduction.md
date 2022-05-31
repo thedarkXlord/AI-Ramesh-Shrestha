@@ -1,8 +1,10 @@
 **Artificial Intelligence**
+
 Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. This generally involves borrowing characteristics from human intelligence, and applying them as algorithms in a computer friendly way.
 AI is generally associated with Computer Science, but it has many important links with other fields such as Maths, Psychology, Cognition, Biology and Philosophy, among many others.
 
 **AI perspectives**
+
 A. Acting Humanly 
 The first proposal for success in building a program and acts humanly was the Turing Test. To be considered intelligent a program must be able to act sufficiently like a human to fool an interrogator. A human interrogates the program and another human via a terminal simultaneously. If after a reasonable period, the interrogator cannot tell which is which, the program passes.
 To pass this test requires:
@@ -15,17 +17,20 @@ This test avoids physical contact and concentrates on "higher level" mental facu
 - robotics
 
 B. Thinking Humanly
+
 This requires "getting inside" of the human mind to see how it works and then comparing our computer programs to this. This is what cognitive science attempts to do. Another way to do this is to observe a human problem solving and argue that one's programs go about problem solving in a similar way.
 Example: GPS (General Problem Solver) was an early computer program that attempted to model human thinking. The developers were not so much interested in whether or not GPS solved problems correctly. They were more interested in showing that it solved problems like people, going through the same steps and taking around the same amount of time to perform those steps.
 
 C. Thinking Rationally
+
 Aristotle was one of the first to attempt to codify "thinking". His syllogisms provided patterns of argument structure that always gave correct conclusions, giving correct premises.
 Example: All computers use energy. Using energy always generates heat. Therefore, all computers generate heat.
 This initiate the field of logic. Formal logic was developed in the late nineteenth century. This was the first step toward enabling computer programs to reason logically.
 By 1965, programs existed that could, given enough time and memory, take a description of the problem in logical notation and find the solution, if one existed. The logicist tradition in AI hopes to build on such programs to create intelligence.
 There are two main obstacles to this approach: First, it is difficult to make informal knowledge precise enough to use the logicist approach particularly when there is uncertainty in the knowledge. Second, there is a big difference between being able to solve a problem in principle and doing so in practice.
 
-D. Acting Rationally: The rational agent approach
+D. Acting Rationally
+
 Acting rationally means acting so as to achieve one's goals, given one's beliefs. An agent is just something that perceives and acts.
 In the logical approach to AI, the emphasis is on correct inferences. This is often part of being a rational agent because one way to act rationally is to reason logically and then act on ones conclusions. But this is not all of rationality because agents often find themselves in situations where there is no provably correct thing to do, yet they must do something.
 There are also ways to act rationally that do not seem to involve inference, e.g., reflex actions.The study of AI as rational agent design has two advantages:
@@ -34,6 +39,7 @@ There are also ways to act rationally that do not seem to involve inference, e.g
 Achieving perfect rationality in complex environments is not possible because the computational demands are too high. However, we will study perfect rationality as a starting place.
 
 **History of AI**
+
 In the early days of AI there was great optimism that the intelligent computer were just a few decades off. However, the problem proved to be far more difficult than anticipated. Today most researchers in AI a smart enough not to make predictions. Also many are not really concerned with creating intelligence, rather they are concerned with creating more intelligent computer programs than currently exist.
 The timeline of AI development
 1943 - McCulloch and Pits propose modelling neurons using on/off devices.
@@ -46,6 +52,7 @@ The timeline of AI development
 1990's - Deep Blue wins against world chess champion. Image and Speech recognition become practical.
 
 **Foundations of AI**
+
 Different fields have contributed to AI in the form of ideas, viewpoints and techniques.
 i. Philosophy:
 Logic, reasoning, mind as a physical system, foundations of learning, language and
@@ -65,6 +72,7 @@ vii. Control theory:
 Homeostatic systems, stability, optimal agent design
 
 **Applications of AI**
+
 i. Game playing
 You can buy machines that can play master level chess for a few hundred dollars. There is some AI in them, but they play well against people mainly through brute
 force computation--looking at hundreds of thousands of positions. To beat a world champion by brute force and known reliable heuristics requires being able to look
